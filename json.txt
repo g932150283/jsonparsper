@@ -1,0 +1,10 @@
+{
+  "name": "张三",
+  "age": 30,
+  "email": "zhangsan@example.com",
+  "address": {
+    "city": "北京",
+    "street": "长安街"
+  },
+  "phoneNumbers": ["1234567890", "9876543210"]
+}
